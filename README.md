@@ -3,7 +3,7 @@
 **Setup**
 1. Clone files to your machine
 2.  Make sure cuteSeaTurtle.jpg is in the same directory as turtlesAreAmazing.html
-3.  Inside of turtlesAreAmazing.html, replace '/path/to/your/image.jpg' with the path to the directory of the files
+3.  Inside of turtlesAreAmazing.html, replace '/path/to/your/image.jpg' with the path to cuteSeaTurtle.jpg
   
 **Features**
 - **Semantic HTML Elements**: Utilizes `<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, `<figure>`, and `<footer>` for a structured, screen-reader friendly layout.
