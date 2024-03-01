@@ -9,4 +9,3 @@ Turteles Are Amazing Blog Post
 - **Text Resizability**: Employs relative CSS units to support text scaling without loss of content or functionality.
 - **Logical Content Sequence**: Arranges content in a linear, logical flow, aiding users who navigate with assistive technology.
 - **Descriptive Headings**: Uses informative headings to enhance content navigation and understanding.
-- **Potential Improvements**: Suggests adding "Skip to content" links, ensuring language simplicity, and including captions for multimedia for further compliance with accessibility standards.
