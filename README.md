@@ -1,4 +1,5 @@
 Turteles Are Amazing Blog Post
+
 **Setup**
 1. Clone files to your machine
 2.  Make sure cuteSeaTurtle.jpg is in the same directory as turtlesAreAmazing.html
