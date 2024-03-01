@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Turtles Are Amazing</title>
+    <style>
+        /* Ensuring sufficient contrast */
+        body {
+            font-size: 16px; /* Base font size for resizing */
+            color: #333; /* High contrast text color */
+            background-color: #E6FFE6; /* Light background for contrast */
+        }
+        article, footer {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        /* Responsive design */
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block; /* Make the image a block element */
+            margin: 20px 0; /* Add some vertical space around the image */
+        }
+        /* Centering the title */
+        header h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header role="banner">
+        <h1>Turtles Are Amazing</h1>
+    </header>
+    <nav role="navigation">
+    </nav>
+    <main role="main">
+        <article>
+            <section aria-labelledby="intro-heading">
+                <h2 id="intro-heading">Introduction to Turtles</h2>
+                <p>Turtles are fascinating creatures that have been around for millions of years. They belong to the order of reptiles known as Testudines or Chelonii. Turtles are known for their bony or cartilaginous shells that provide protection from predators.</p>
+            </section>
+            <section aria-labelledby="types-heading">
+                <h2 id="types-heading">Types of Turtles</h2>
+                <p>There are many different types of turtles. Here are a few:</p>
+                <ul>
+                    <li>Sea Turtles - These turtles spend most of their lives in the oceans.</li>
+                    <li>Tortoises - Unlike sea turtles, tortoises live on land.</li>
+                    <li>Freshwater Turtles - These turtles live in rivers and lakes.</li>
+                </ul>
+            </section>
+            <figure>
+                <img src="/path/to/your/image.jpg" alt="A beautiful sea turtle in the ocean">
+                <figcaption>An adorable sea turtle swimming in the ocean.</figcaption>
+            </figure>
+            <section aria-labelledby="conservation-heading">
+                <h2 id="conservation-heading">Why Turtles Matter</h2>
+                <p>Turtles play vital roles in their ecosystems. For example, sea turtles help maintain the health of seagrass beds and coral reefs, which benefit other marine life.</p>
+            </section>
+            <section aria-labelledby="efforts-heading">
+                <h2 id="efforts-heading">Conservation Efforts</h2>
+                <p>Many turtle species are endangered and require our help to survive. Conservation efforts include protecting nesting sites, reducing bycatch in fishing gear, and eliminating illegal trade of turtles and their parts.</p>
+            </section>
+        </article>
+    </main>
+    <footer role="contentinfo">
+        <p>Posted on: Feb 29th, 2024</p>
+        <p>Author: Mads Feiring</p>
+    </footer>
+</body>
+</html>
